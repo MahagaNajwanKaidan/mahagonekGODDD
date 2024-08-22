@@ -5,6 +5,7 @@ import bodyParser from 'body-parser';
 import router from './routes/route.js';
 
 dotenv.config();
+// dsa
 const PORT = process.env.PORT
 
 const app = express ()
